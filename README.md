@@ -23,4 +23,4 @@
 
 ### Lehigh University Job Openings by Category. This bar chart was created on Excel and shows that the job category with the most employees at Lehigh is in the Professional/ Managerial Category. 
 
-![Lehigh University Job Openings by Category] ()
+![Lehigh University Job Openings by Category] (CarolynLovvoll.github.io/Screen Shot 2018-10-05 at 12.06.22 PM.png)
